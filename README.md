@@ -104,7 +104,7 @@ Project/
 
 ### Geodatabase Structure
 
-![Overview](layout/structureDB)
+![Overview](layout/structureDB.png)
 
 ---
 
