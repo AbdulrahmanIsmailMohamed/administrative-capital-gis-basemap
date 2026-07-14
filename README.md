@@ -100,15 +100,11 @@ Project/
 
 ### Project Layout
 
-![Overview](layout/administrativeCapitalLayout.jpeg)
-
-### Digitized Road Network
-
-> Add your road network screenshot here.
+![Overview](layout/administrativeCapitalLayout.jpg)
 
 ### Geodatabase Structure
 
-> Add your geodatabase screenshot here.
+![Overview](layout/structureDB)
 
 ---
 
